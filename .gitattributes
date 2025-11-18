@@ -1,2 +1,28 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data (si son archivos muy grandes)
+# data/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# IDEs
+.vscode/
+.idea/
