@@ -69,6 +69,18 @@ Analizar el comportamiento de ventas de una cadena retail para:
 - 20% de productos generan 80% de las ganancias
 - Enfoque recomendado en productos de alto margen
 
+## 📊 Dashboard Interactivo
+
+![Dashboard Power BI](resultados/dashboard_preview.pdf)
+
+Dashboard interactivo en Power BI que incluye:
+- KPIs principales (ventas, ganancia, margen)
+- Filtros dinámicos por año, categoría y región
+- Visualizaciones de tendencias y comparativas
+- Top productos en tiempo real
+
+📥 [Descargar dashboard (.pbix)](dashboards/dashboard_ventas.pbix)
+
 ## 📊 Visualizaciones
 
 ![Ventas por Categoría](resultados/ventas_por_categoria.png)
@@ -94,15 +106,15 @@ jupyter notebook notebooks/analisis_exploratorio.ipynb
 ## 📁 Estructura del Proyecto
 ```
 analisis-ventas-retail/
-├── data/                      # Dataset original
-├── notebooks/                 # Análisis en Jupyter
+├── data/                      
+├── notebooks/                 
 │   └── analisis_exploratorio.ipynb
-├── resultados/                # Gráficos y reportes
+├── resultados/                
 │   ├── ventas_por_categoria.png
 │   ├── tendencia_ventas.png
 │   ├── top_productos.png
 │   └── ventas_por_region.png
-├── dashboards/                # Futuros dashboards
+├── dashboards/                
 └── README.md
 ```
 
