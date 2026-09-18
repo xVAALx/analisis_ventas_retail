@@ -71,7 +71,7 @@ Analizar el comportamiento de ventas de una cadena retail para:
 
 ## 📊 Dashboard Interactivo
 
-![Dashboard Power BI](resultados/dashboard_preview.pdf)
+📈[Dashboard Power BI](resultados/dashboard_preview.pdf)
 
 Dashboard interactivo en Power BI que incluye:
 - KPIs principales (ventas, ganancia, margen)
