@@ -91,7 +91,7 @@ Dashboard interactivo en Power BI que incluye:
 ## 🚀 Cómo Ejecutar el Proyecto
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/[tu-usuario]/analisis-ventas-retail.git
+git clone https://github.com/xVAALx/analisis-ventas-retail.git
 
 # 2. Navegar a la carpeta
 cd analisis-ventas-retail
@@ -128,9 +128,8 @@ analisis-ventas-retail/
 ## 📧 Contacto
 
 **[Valentin Avila]**
-- 💼 LinkedIn: 
-- 📧 Email: 
-- 🌐 Workana: 
+- 💼 LinkedIn: https://www.linkedin.com/in/valentin-avila-025800247/
+- 📧 Email: valenavila9@gmail.com
 
 ---
 
